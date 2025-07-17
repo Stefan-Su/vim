@@ -1,7 +1,6 @@
 " ------------------------
 " Anzeige & Navigation
 " ------------------------
-
 set number        " Zeilennummern anzeigen
 set cursorline    " Aktive Zeile hervorheben
 
